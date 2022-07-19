@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-typeorm-api",
+  "version": "1.0.0",
+  "description": "projeto nodejs para criacao de API rest",
+  "main": "]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierNdeye/nodejs-typeORM-api.git"
+  },
+  "author": "Olivier Ndeye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivierNdeye/nodejs-typeORM-api/issues"
+  },
+  "homepage": "https://github.com/OlivierNdeye/nodejs-typeORM-api#readme"
+}
